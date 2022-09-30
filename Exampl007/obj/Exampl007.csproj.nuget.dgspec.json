@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cepji\\Desktop\\Материалы по курсу Бизнес Аналитика\\Примеры\\Exampl007\\Exampl007.csproj": {}
+    "C:\\Users\\cepji\\Desktop\\Business intelligence\\Все про C#\\Projects\\Exampl007\\Exampl007.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cepji\\Desktop\\Материалы по курсу Бизнес Аналитика\\Примеры\\Exampl007\\Exampl007.csproj": {
+    "C:\\Users\\cepji\\Desktop\\Business intelligence\\Все про C#\\Projects\\Exampl007\\Exampl007.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cepji\\Desktop\\Материалы по курсу Бизнес Аналитика\\Примеры\\Exampl007\\Exampl007.csproj",
+        "projectUniqueName": "C:\\Users\\cepji\\Desktop\\Business intelligence\\Все про C#\\Projects\\Exampl007\\Exampl007.csproj",
         "projectName": "Exampl007",
-        "projectPath": "C:\\Users\\cepji\\Desktop\\Материалы по курсу Бизнес Аналитика\\Примеры\\Exampl007\\Exampl007.csproj",
+        "projectPath": "C:\\Users\\cepji\\Desktop\\Business intelligence\\Все про C#\\Projects\\Exampl007\\Exampl007.csproj",
         "packagesPath": "C:\\Users\\cepji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cepji\\Desktop\\Материалы по курсу Бизнес Аналитика\\Примеры\\Exampl007\\obj\\",
+        "outputPath": "C:\\Users\\cepji\\Desktop\\Business intelligence\\Все про C#\\Projects\\Exampl007\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cepji\\AppData\\Roaming\\NuGet\\NuGet.Config"

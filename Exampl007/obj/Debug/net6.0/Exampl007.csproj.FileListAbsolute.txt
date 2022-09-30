@@ -13,3 +13,18 @@ C:\Users\cepji\Desktop\Материалы по курсу Бизнес Анал�
 C:\Users\cepji\Desktop\Материалы по курсу Бизнес Аналитика\Примеры\Exampl007\obj\Debug\net6.0\Exampl007.pdb
 C:\Users\cepji\Desktop\Материалы по курсу Бизнес Аналитика\Примеры\Exampl007\obj\Debug\net6.0\Exampl007.genruntimeconfig.cache
 C:\Users\cepji\Desktop\Материалы по курсу Бизнес Аналитика\Примеры\Exampl007\obj\Debug\net6.0\ref\Exampl007.dll
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\bin\Debug\net6.0\Exampl007.exe
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\bin\Debug\net6.0\Exampl007.deps.json
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\bin\Debug\net6.0\Exampl007.runtimeconfig.json
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\bin\Debug\net6.0\Exampl007.dll
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\bin\Debug\net6.0\Exampl007.pdb
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\obj\Debug\net6.0\Exampl007.csproj.AssemblyReference.cache
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\obj\Debug\net6.0\Exampl007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\obj\Debug\net6.0\Exampl007.AssemblyInfoInputs.cache
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\obj\Debug\net6.0\Exampl007.AssemblyInfo.cs
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\obj\Debug\net6.0\Exampl007.csproj.CoreCompileInputs.cache
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\obj\Debug\net6.0\Exampl007.dll
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\obj\Debug\net6.0\refint\Exampl007.dll
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\obj\Debug\net6.0\Exampl007.pdb
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\obj\Debug\net6.0\Exampl007.genruntimeconfig.cache
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Projects\Exampl007\obj\Debug\net6.0\ref\Exampl007.dll
