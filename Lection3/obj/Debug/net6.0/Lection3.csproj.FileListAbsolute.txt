@@ -1,0 +1,15 @@
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\bin\Debug\net6.0\Lection3.exe
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\bin\Debug\net6.0\Lection3.deps.json
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\bin\Debug\net6.0\Lection3.runtimeconfig.json
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\bin\Debug\net6.0\Lection3.dll
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\bin\Debug\net6.0\Lection3.pdb
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\obj\Debug\net6.0\Lection3.csproj.AssemblyReference.cache
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\obj\Debug\net6.0\Lection3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\obj\Debug\net6.0\Lection3.AssemblyInfoInputs.cache
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\obj\Debug\net6.0\Lection3.AssemblyInfo.cs
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\obj\Debug\net6.0\Lection3.csproj.CoreCompileInputs.cache
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\obj\Debug\net6.0\Lection3.dll
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\obj\Debug\net6.0\refint\Lection3.dll
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\obj\Debug\net6.0\Lection3.pdb
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\obj\Debug\net6.0\Lection3.genruntimeconfig.cache
+C:\Users\cepji\Desktop\Business intelligence\Все про C#\Seminars\Lecture copy\Lection3\obj\Debug\net6.0\ref\Lection3.dll
